@@ -1,5 +1,5 @@
-x = float(input("x?"))
-y = float(input("y?"))
+x = float(input('x?'))
+y = float(input('y?'))
 
 z = round(x / y, 2)
 
