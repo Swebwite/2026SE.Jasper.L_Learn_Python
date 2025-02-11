@@ -6,24 +6,24 @@ Watch the [Functions, Variables](https://schoolsnsw.sharepoint.com/:v:/r/sites/T
 
 ## Dictionary of Terms
 
-1. Compilation
-2. Interpretation
-3. Terminal
-4. Function
-5. Argument
-6. Parameter
-7. Documentation
-8. Comments
-9. Variables
-10. Strings
-11. Interger
-12. Float
-13. Parenthasis
-14. Square Brackets
-15. format string
-16. Define
-17. Variable scope
-18. return (value)
+1. Compilation - converting the code to be readable by a computer
+2. Interpretation - converting written code to machine code
+3. Terminal - used to execute commands
+4. Function - code that carries out a task
+5. Argument - values that a function uses
+6. Parameter - the variable inside the functions parentheses that stores the argument
+7. Documentation - explinations and descriptions of the python project outside the code
+8. Comments - descriptions or text inside the code that are ignored by the computer
+9. Variables - names used to store different information to be used later
+10. Strings - text or numbers stored as they are
+11. Interger - a whole number
+12. Float - a whole or decimal number
+13. Parenthasis - () used for defining functions and telling the machine what to do first
+14. Square Brackets - used to access specific elements from lists
+15. format string - makes strings able to call other variables inside them
+16. Define - used to create a custom function
+17. Variable scope - the area in which the variable sits affecting where it can be used
+18. return (value) - return a value based on calculations in the code
 
 ## Problems
 
