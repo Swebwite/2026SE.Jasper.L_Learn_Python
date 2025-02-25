@@ -6,22 +6,22 @@ Watch the [Loops](https://schoolsnsw.sharepoint.com/:v:/r/sites/TempeHS-Software
 
 ## Dictionary of Terms
 
-1. Loop
-2. Interate
-3. While loop
-4. Do While loop
-5. For loop
-6. For Each loop
-7. Interupt
-8. Decrement
-9. Increment
-10. Does not
-11. Array (called a list in Python)
-12. Length
-13. Dictionary
-14. Key
-15. value
-16. Abstraction
+1. Loop - Repeat a function
+2. Iterate - Repeat a certain number of times or until condition is met
+3. While loop - Repeat while statement is true
+4. Do While loop - Constantly runs while statement is true
+5. For loop - Repeats for a variable
+6. For Each loop - Repeats for each item in a variable
+7. Interupt - Stop a loop
+8. Decrement - Decreases by an increment
+9. Increment - Increases by an increment
+10. Does not - A condition is not met
+11. Array (called a list in Python) - A list of items stored as variables and sorted by another variable
+12. Length - Number of items in a list
+13. Dictionary - Collection of keys and values
+14. Key - The identifier or number of a value
+15. value - a variable in a list or dict
+16. Abstraction - Making code look neater by hiding long strings of complex code
 
 ## Problems
 
@@ -48,6 +48,7 @@ Watch the [Loops](https://schoolsnsw.sharepoint.com/:v:/r/sites/TempeHS-Software
 ### Loops
 
 Essentially, `loops` are a way to do something over and over again.
+Begin by typing `code cat.py` in the terminal window.
 Begin by typing `code cat.py` in the terminal window.
 In the text editor, begin with the following code:
 
