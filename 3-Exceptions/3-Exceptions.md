@@ -6,19 +6,19 @@ Watch the [Exceptions](https://schoolsnsw.sharepoint.com/:v:/r/sites/TempeHS-Sof
 
 ## Dictionary of Terms
 
-1. Exception
-2. Syntax Error
-3. Unterminated
-4. Literal
-5. Runtime errors
-6. Corner case
-7. Value error
-8. Input error
-9. try & except
-10. Name error
-11. Break
-12. Return
-13. Pass
+1. Exception - Runs code when an error occurs
+2. Syntax Error - An error in the code or input syntax which means it cannot be compiled
+3. Unterminated - Not ended such as missing a ':'
+4. Literal - A variable that can hold any data type
+5. Runtime errors - An error when the syntax is correct but the code still cannot run
+6. Corner case - Two inputs are at their maximums
+7. Value error - When a variable has the wrong value
+8. Input error - When a user inputs an unusable value
+9. try & except - Try run code and if it returns this error then run this code
+10. Name error - When you attempt to use a variable or function that hasnt been defined
+11. Break - Exit a loop
+12. Return - Return a value from a function
+13. Pass - Skip a line
 
 ## Problems
 
