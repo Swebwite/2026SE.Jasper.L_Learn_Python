@@ -10,7 +10,7 @@ while True:
             print(f'{fuel:.0f}%')
         if fuel <= 1:
             print('E')
-        if fuel >= 99:
+        if 100 >= fuel >= 99:
             print('F')
         break
     except (ValueError, ZeroDivisionError):
